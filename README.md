@@ -1,0 +1,2 @@
+# Spiking-Neural-Network-MNist-Version
+Il s'agit de l'implémentation en Python d'un réseau de neurones à impulsion efficace sur le plan matériel. Il inclut les règles d'apprentissage et de prédiction modifiées qui peuvent être réalisées sur le matériel et sont efficaces en coût de calcul. Le but est de développer un réseau qui pourrait être utilisé pour l'apprentissage et la prédiction sur FPGA par exemple.  L'algorithme STDP (Spike-Time Dependent Plasticity) sera utilisé pour entraîner le réseau.  
